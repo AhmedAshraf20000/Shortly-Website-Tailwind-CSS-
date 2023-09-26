@@ -16,4 +16,4 @@ Just clone the repo and run it on the the live server.
 
 ### Live demo
 
-You can visit the website through this link [live demo](https://leon-template-html-css.vercel.app/)
+You can visit the website through this link [live demo](https://shortly-website-tailwind-css.vercel.app/)
