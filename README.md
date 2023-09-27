@@ -4,7 +4,7 @@ Shortly Template
 
 ## Getting Started
 
-This template is only for applying my skills on the web design using the simplest tools.
+This template is only for applying my skills on the web design using tailwind css.
 
 ### Technologies
 
